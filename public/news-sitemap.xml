@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://thegeopacts.com/article/post-hero-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The GeoPacts</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[iPhone 13 Mini Review: The Small Phone That's Actually Good]]></news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thegeopacts.com/article/post-hero-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The GeoPacts</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[The Complete Guide to Building Your Next Keyboard]]></news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thegeopacts.com/article/post-hero-3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The GeoPacts</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Why Everyone is Obsessed with Mechanical Keyboards Again]]></news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thegeopacts.com/article/post-tech-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The GeoPacts</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[Silicon Photonics Breakthroughs in Modern High-Compute Data Centers]]></news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://thegeopacts.com/article/post-story-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The GeoPacts</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T00:00:00.000Z</news:publication_date>
+      <news:title><![CDATA[The Great Semiconductor Realignment: Nations Race for Chip Sovereignty]]></news:title>
+    </news:news>
+  </url>
+</urlset>

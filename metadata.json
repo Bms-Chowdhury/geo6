@@ -1,0 +1,6 @@
+{
+  "name": "The GeoPacts",
+  "description": "The GeoPacts is a modern global news and information platform covering world affairs, politics, business, technology, science, culture, and other important developments shaping our world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

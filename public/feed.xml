@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The GeoPacts - Global Strategic News</title>
+    <link>https://thegeopacts.com</link>
+    <description>Authoritative journal covering geopolitics, technology diplomacy, defense architecture, and global trade.</description>
+    <language>en-us</language>
+    <atom:link href="https://thegeopacts.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[iPhone 13 Mini Review: The Small Phone That's Actually Good]]></title>
+      <link>https://thegeopacts.com/article/post-hero-1</link>
+      <guid isPermaLink="false">post-hero-1</guid>
+      <description><![CDATA[Apple proves that compact smartphones can still pack flagship camera quality, blazing A15 Bionic performance, and battery improvements.]]></description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title><![CDATA[The Complete Guide to Building Your Next Keyboard]]></title>
+      <link>https://thegeopacts.com/article/post-hero-2</link>
+      <guid isPermaLink="false">post-hero-2</guid>
+      <description><![CDATA[From lubing switches to selecting mounting styles: step-by-step masterclass in constructing an acoustic masterpiece keyboard.]]></description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title><![CDATA[The Great Semiconductor Realignment: Nations Race for Chip Sovereignty]]></title>
+      <link>https://thegeopacts.com/article/post-story-1</link>
+      <guid isPermaLink="false">post-story-1</guid>
+      <description><![CDATA[Bilateral pacts and sovereign fab subsidies are redrawing the geopolitical tech map from East Asia to North America.]]></description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <category>World Affairs</category>
+    </item>
+  </channel>
+</rss>

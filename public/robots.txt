@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://thegeopacts.com/sitemap.xml
+Sitemap: https://thegeopacts.com/news-sitemap.xml
